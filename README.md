@@ -1,19 +1,22 @@
-### Hi there 👋
 
-<!--
-**PoriyaAbdollahi/PoriyaAbdollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b761164d9ccc8447eddde85a94aab6529b4f9cf918b50&rid=giphy.gif&ct=g" >
+I'm Poriya Abdollahi from Iran, I really enjoy learning languages and frameworks like React and Next.js, as well as work in Android development and Game Development. I also enjoy wireframing, ui, ux, and design in general. 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning EveryThing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <img align="left" alt-"codeSTACKr's Github Stats" src="https://
-github-readme-stats.vercel.app/api?username-codeSTACKr&show icons-true&
-hide_border-true" />
+ 
+## Skills and Experience
+* ⚛ React
+* 📱 Android Native
+* 💻 HTML, CSS, JS...
+## Connect with me
+[![website](./img/globe-light.svg)](https://poriyaabdollahi.github.io/poriya-abdollahi#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://poriyaabdollahi.github.io/poriya-abdollahi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/poriya-abdollahi-673942200#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/poriya-abdollahi-673942200#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/poriyarushan.dark#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/poriyarushan.dark/#gh-dark-mode-only)
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PoriyaAbdollahi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
