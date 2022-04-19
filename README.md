@@ -1,5 +1,5 @@
 
-<img src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b761164d9ccc8447eddde85a94aab6529b4f9cf918b50&rid=giphy.gif&ct=g" >
+<img src="./img/banner.gif" >
 I'm Poriya Abdollahi from Iran, I really enjoy learning languages and frameworks like React and Next.js, as well as work in Android development and Game Development. I also enjoy wireframing, ui, ux, and design in general. 
 
  
